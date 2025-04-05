@@ -1,60 +1,70 @@
 ---
 layout: page
 title: Privacy Policy
-include_in_header: false
+include_in_header: true
 ---
 
 **Last updated**  
-August 1 2019
+April 5 2025
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+1. Definitions and Introduction
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+    This Privacy Policy applies to the Babylytics mobile application (hereinafter referred to as the "Application") for mobile devices. The Application is provided by O S (hereinafter referred to as the "Service Provider") as a free service intended for use "AS IS." In this Privacy Policy:
 
-<br>
+    * Application: The Babylytics app for iOS devices.
+    * Service Provider: O S, the entity responsible for creating, maintaining, and operating the Application.
+    * Personal Data: Any information that relates to an identified or identifiable individual.
+    * Third-Party Services: External services integrated into the Application, including but not limited to Firebase Analytics, Crashlytics, and Supabase.
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+2. Scope and Applicability
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+    This Privacy Policy governs the collection, use, disclosure, and protection of information within the Application. It applies solely to the Application and does not extend to any third-party websites, offline activities, or services not directly controlled by the Service Provider.
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
 
-<br>
+3. Information Collection
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+    3.1 Analytics and Crash Data:
+    The Application uses Firebase Analytics and Crashlytics to collect technical data (e.g., device type, operating system, usage statistics) to monitor performance and diagnose issues. This information is used solely for quality improvement purposes.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+    3.2 Data Synchronization:
+    Supabase is used to synchronize user data across devices. All data transmitted via Supabase is encrypted end-to-end, ensuring that your Personal Data is protected during transfer and storage.
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+    3.3 Local Storage:
+    The Application utilizes CoreData for local data storage on your device. This data is used to provide a seamless user experience and is secured according to industry standards.
 
-<br>
+4. Use of Information
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+    The information collected is used to:
+    * Analyze app performance and usage trends.
+    * Diagnose and resolve technical issues.
+    * Facilitate secure data synchronization across your devices.
+    * Enhance and improve the overall user experience of the Application.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+5. Third-Party Services
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+    The Application integrates with third-party services such as Firebase Analytics, Crashlytics, and Supabase. These services may collect and process data in accordance with their own privacy policies. We recommend that you review these policies to understand how your data is handled by these external providers.
 
-<br>
+6. Data Security and Retention
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+    We implement industry-standard security measures, including encryption and secure storage, to protect your Personal Data. While no method of transmission or storage is entirely secure, we strive to safeguard your information as effectively as possible. Data is retained only as long as necessary to fulfill the purposes described in this Privacy Policy.
 
-<br>
+7. User Rights and Choices
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+    You have the right to:
+    * Access and review your Personal Data.
+    * Request corrections or deletions of your Personal Data.
+    * Opt out of certain data collection practices; however, please note that opting out may affect the functionality and performance of the Application.
+    To exercise these rights or for any concerns regarding your data, please contact us using the details provided in Section 9.
+
+8. Updates to this Privacy Policy
+
+    The Service Provider reserves the right to update this Privacy Policy periodically. Any changes will be communicated within the Application along with an updated effective date. Continued use of the Application after changes have been posted constitutes your acceptance of the updated Privacy Policy.
+
+9. Contact Information
+
+    For questions, concerns, or requests regarding this Privacy Policy, please contact us at:
+    * Email: privacy@babylytics.app
+
+10. Disclaimer
+
+    The Application is provided "AS IS," without any warranties, express or implied. The Service Provider does not guarantee that the Application will operate error-free or uninterrupted and is not liable for any damages arising from its use.
