@@ -37,9 +37,29 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+- title: One-Tap Logging
+  description: "Track feeds, diapers and sleep in a single tap so you’re free to enjoy the snuggles."
+  fontawesome_icon_name: bolt
+
+- title: Smart AI Insights
+  description: "Luna analyzes your baby’s routine and delivers clear, personalized tips you can trust."
+  fontawesome_icon_name: robot
+
+- title: Timely Reminders
+  description: "Gentle nudges arrive exactly when you need them—no clocks to set, no schedule math."
+  fontawesome_icon_name: bell
+
+- title: Instant Partner Sync
+  description: "Share a QR code to keep grandparents, partners or caregivers updated in real time."
+  fontawesome_icon_name: users
+
+- title: Private Cloud Backup
+  description: "End-to-end encryption keeps every memory safe while syncing seamlessly across devices."
+  fontawesome_icon_name: lock
+
+- title: Glanceable Widgets & Watch
+  description: "See the latest stats on your Home Screen or wrist without even opening the app."
+  fontawesome_icon_name: chart-line
 
 
 
