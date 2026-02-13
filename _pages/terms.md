@@ -1,68 +1,100 @@
 ---
 layout: page
-title: Terms
+title: Terms of Use
 include_in_header: true
 ---
 
-Effective Date: 05.04.25
+**Last updated**  
+February 13, 2026
 
-1. Definitions and Introduction
+These Terms of Use ("Terms") govern your use of the Babylytics iOS app, Apple Watch app, widgets, website, and related services (collectively, the "App"). By downloading, installing, accessing, or using Babylytics, you agree to these Terms.
 
-    This document constitutes the Terms and Conditions (“Terms”) for the use of the Babylytics mobile application (hereinafter referred to as the "Application"). The Application is provided by Babylytics (hereinafter referred to as the "Service Provider") as a free service provided “AS IS.” In these Terms:
+If you do not agree, do not use the App.
 
-    * Application: Refers to the Babylytics app for mobile devices.
-    * Service Provider: Refers to Babylytics, the entity responsible for developing, maintaining, and operating the Application.
-    * User: Any individual who accesses or uses the Application.
-    * Third-Party Services: External services integrated within the Application, including but not limited to Firebase Analytics, Crashlytics, and Supabase.
+## 1. Eligibility and Account
 
-2. Acceptance of Terms
+* The App is intended for personal, non-commercial use by parents and caregivers.
+* You are not required to manually sign up. Babylytics creates an account automatically in-app.
+* Account access on another device is restored using the in-app QR flow.
+* You are responsible for your device security and activity under your account.
 
-    By downloading, installing, or using the Application, you agree to be bound by these Terms. If you do not agree with any part of these Terms, please refrain from using the Application.
+## 2. License
 
-3. License Grant and Use of the Application
+Subject to these Terms, Babylytics grants you a limited, revocable, non-exclusive, non-transferable license to use the App for personal use on Apple-authorized devices.
 
-    * License: The Service Provider grants you a limited, non-exclusive, non-transferable license to download and use the Application solely for your personal, non-commercial purposes in accordance with these Terms.
-    * Acceptable Use: You agree to use the Application in compliance with all applicable laws and regulations and not to engage in any activity that may harm the Application, its functionality, or its users.
+You may not:
 
-4. Intellectual Property
+* Reverse engineer, decompile, or disassemble the App except where prohibited by law.
+* Copy, modify, distribute, sell, lease, sublicense, or commercially exploit the App or any part of it without permission.
+* Use the App in ways that interfere with service integrity, security, or availability.
 
-    All content, features, and functionality included in the Application—including but not limited to text, graphics, logos, images, and software—are the property of the Service Provider or its licensors and are protected by intellectual property laws. You agree not to reproduce, distribute, or create derivative works without explicit written consent.
+## 3. Free and Paid Features
 
-5. Third-Party Services
+* Babylytics includes free features and paid features.
+* Some functionality (such as advanced insights, Sleep Schedule plans, and premium tools) may require an active subscription.
+* Feature availability may vary by country, device, and app version.
 
-    The Application integrates with third-party services such as Firebase Analytics, Crashlytics, and Supabase. Use of these services is governed by their own respective terms and privacy policies. The Service Provider is not responsible for the practices of these external services.
+## 4. Subscriptions and Billing
 
-6. Disclaimers and Limitations of Liability
+* Paid subscriptions are processed by Apple through your App Store account.
+* Subscriptions may auto-renew unless canceled through Apple subscription settings.
+* Billing, cancellation timing, and refund handling are managed by Apple under Apple’s terms and policies.
+* You can use "Restore Purchases" to recover eligible purchases on the same Apple account.
+* Prices and plan availability can change and will be shown in-app before purchase.
 
-    * AS IS Service: The Application is provided "AS IS" and without any warranties, express or implied. The Service Provider disclaims all warranties including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
-    * No Guarantee of Service: The Service Provider does not guarantee uninterrupted or error-free operation of the Application and reserves the right to modify or discontinue the Application at any time without notice.
-    * Limitation of Liability: To the fullest extent permitted by law, the Service Provider shall not be liable for any direct, indirect, incidental, consequential, or punitive damages arising from your use of, or inability to use, the Application.
+## 5. Acceptable Use
 
-7. Indemnification
+You agree not to:
 
-    You agree to indemnify, defend, and hold harmless the Service Provider, its affiliates, and their respective officers, directors, employees, and agents from any claims, liabilities, damages, or expenses arising out of or related to your use of the Application, your violation of these Terms, or infringement of any intellectual property or other right of any person or entity.
+* Use the App for unlawful, fraudulent, or abusive purposes.
+* Attempt unauthorized access to accounts, systems, or data.
+* Upload malware or perform activity that disrupts users, networks, or infrastructure.
+* Use automated means to scrape, overload, or interfere with the App.
 
-8. Modifications to Terms
+## 6. Health and AI Disclaimer
 
-    The Service Provider reserves the right to modify or update these Terms at any time. Changes will be communicated through the Application or via other appropriate means. Your continued use of the Application after any modifications indicates your acceptance of the revised Terms.
+* Babylytics is an informational parenting tool and is not a medical device.
+* App insights, reminders, and AI responses (including Luna chat) do not replace professional medical advice, diagnosis, or treatment.
+* For medical concerns or emergencies, contact a qualified healthcare professional or emergency services.
 
-9. Termination
+## 7. Third-Party Services
 
-    The Service Provider may terminate or suspend your access to the Application, with or without notice, for any conduct that violates these Terms or is deemed harmful to the Application, other users, or third parties. Upon termination, your right to use the Application will immediately cease.
+The App uses third-party services (including Apple, Supabase, Firebase, and OpenAI) for core functionality such as subscriptions, sync, analytics, push infrastructure, and AI chat responses.
 
-10. Governing Law and Dispute Resolution
+Use of those services is subject to their own terms and privacy policies.
 
-    These Terms shall be governed by and construed in accordance with the laws of the United States. Any disputes arising under or in connection with these Terms shall be resolved exclusively in the appropriate courts located in the United States.
+## 8. Intellectual Property
 
-11. Entire Agreement
+All rights, title, and interest in the App, including software, branding, text, graphics, and content, are owned by Babylytics or its licensors and protected by applicable intellectual property laws.
 
-    These Terms, together with any additional guidelines or policies referenced herein, constitute the entire agreement between you and the Service Provider regarding the use of the Application and supersede all prior or contemporaneous communications and proposals.
+## 9. Termination
 
-12. Severability
+We may suspend or terminate access if you violate these Terms or use the App in a harmful or unlawful way. You may stop using the App at any time and may request account deletion through available in-app settings.
 
-    If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+## 10. Disclaimers
 
-13. Contact Information
+The App is provided "AS IS" and "AS AVAILABLE" without warranties of any kind, express or implied, including implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
 
-    For any questions or concerns regarding these Terms, please contact us at:
-    * Email: privacy@babylytics.app
+We do not guarantee uninterrupted, error-free, or fully secure operation.
+
+## 11. Limitation of Liability
+
+To the maximum extent permitted by law, Babylytics will not be liable for indirect, incidental, special, consequential, or punitive damages, or for loss of data, profits, goodwill, or business arising from or related to use of the App.
+
+## 12. Changes to These Terms
+
+We may update these Terms from time to time. Material changes will be reflected by updating the date above and, where appropriate, by in-app notice. Continued use after updates means you accept the revised Terms.
+
+## 13. Governing Law
+
+These Terms are governed by the laws applicable where Babylytics is established, without limiting mandatory consumer protections available under the laws of your place of residence.
+
+## 14. Privacy Policy
+
+Your use of the App is also subject to the Privacy Policy: [https://babylytics.app/privacypolicy/](https://babylytics.app/privacypolicy/)
+
+## 15. Contact
+
+For questions about these Terms:
+
+* Email: privacy@babylytics.app

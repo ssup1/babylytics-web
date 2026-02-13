@@ -5,66 +5,74 @@ include_in_header: true
 ---
 
 **Last updated**  
-April 5 2025
+February 13, 2026
 
-1. Definitions and Introduction
+This Privacy Policy explains how Babylytics ("Babylytics," "we," "us," or "our") collects, uses, and protects information when you use the Babylytics iOS app, Apple Watch app, widgets, and related services (collectively, the "App").
 
-    This Privacy Policy applies to the Babylytics mobile application (hereinafter referred to as the "Application") for mobile devices. The Application is provided by O S (hereinafter referred to as the "Service Provider") as a free service intended for use "AS IS." In this Privacy Policy:
+## 1. Accounts in Babylytics
 
-    * Application: The Babylytics app for iOS devices.
-    * Service Provider: O S, the entity responsible for creating, maintaining, and operating the Application.
-    * Personal Data: Any information that relates to an identified or identifiable individual.
-    * Third-Party Services: External services integrated into the Application, including but not limited to Firebase Analytics, Crashlytics, and Supabase.
+You do not need to manually create an account to use Babylytics. An account is created automatically in the app. If you move to another device, account access can be restored using the in-app QR flow.
 
-2. Scope and Applicability
+## 2. What Data Is Processed
 
-    This Privacy Policy governs the collection, use, disclosure, and protection of information within the Application. It applies solely to the Application and does not extend to any third-party websites, offline activities, or services not directly controlled by the Service Provider.
+To provide app functionality, Babylytics processes:
 
+* App content that you enter and choose to sync.
+* Technical and operational data needed to run and improve the app (for example diagnostics, analytics events, and push messaging token data when notifications are enabled).
+* Luna AI chat prompts and responses when you use chat features.
 
-3. Information Collection
+## 3. Encryption and Access
 
-    3.1 Analytics and Crash Data:
-    The Application uses Firebase Analytics and Crashlytics to collect technical data (e.g., device type, operating system, usage statistics) to monitor performance and diagnose issues. This information is used solely for quality improvement purposes.
+Babylytics is designed so synced app content is encrypted before storage and transit. We do not use your encrypted app content for advertising, and we do not keep human-readable access to your encrypted values in normal operation.
 
-    3.2 Data Synchronization:
-    Supabase is used to synchronize user data across devices. All data transmitted via Supabase is encrypted end-to-end, ensuring that your Personal Data is protected during transfer and storage.
+No transmission or storage method is 100% secure, but we apply reasonable technical safeguards.
 
-    3.3 Local Storage:
-    The Application utilizes CoreData for local data storage on your device. This data is used to provide a seamless user experience and is secured according to industry standards.
+## 4. Why Data Is Processed
 
-4. Use of Information
+Data is processed to:
 
-    The information collected is used to:
-    * Analyze app performance and usage trends.
-    * Diagnose and resolve technical issues.
-    * Facilitate secure data synchronization across your devices.
-    * Enhance and improve the overall user experience of the Application.
+* Operate syncing, reminders, charts, and app features across devices.
+* Deliver notifications if you enable them.
+* Provide Luna AI chat responses when requested.
+* Improve stability, performance, and reliability.
+* Handle subscription and billing status through Apple.
 
-5. Third-Party Services
+## 5. Third-Party Processors
 
-    The Application integrates with third-party services such as Firebase Analytics, Crashlytics, and Supabase. These services may collect and process data in accordance with their own privacy policies. We recommend that you review these policies to understand how your data is handled by these external providers.
+Babylytics uses third-party providers to deliver parts of the service:
 
-6. Data Security and Retention
+* Supabase (authentication, sync, and storage)
+* Firebase Analytics
+* Firebase Crashlytics
+* Firebase Remote Config
+* Firebase Cloud Messaging
+* OpenAI API (Luna chat)
+* Apple (App Store payments and subscriptions)
 
-    We implement industry-standard security measures, including encryption and secure storage, to protect your Personal Data. While no method of transmission or storage is entirely secure, we strive to safeguard your information as effectively as possible. Data is retained only as long as necessary to fulfill the purposes described in this Privacy Policy.
+These providers may process data under their own policies and terms.
 
-7. User Rights and Choices
+## 6. Notifications
 
-    You have the right to:
-    * Access and review your Personal Data.
-    * Request corrections or deletions of your Personal Data.
-    * Opt out of certain data collection practices; however, please note that opting out may affect the functionality and performance of the Application.
-    To exercise these rights or for any concerns regarding your data, please contact us using the details provided in Section 9.
+If you enable notifications, Babylytics can use local notifications and push infrastructure to deliver reminders. You can disable notifications at any time in iOS Settings.
 
-8. Updates to this Privacy Policy
+## 7. Retention and Deletion
 
-    The Service Provider reserves the right to update this Privacy Policy periodically. Any changes will be communicated within the Application along with an updated effective date. Continued use of the Application after changes have been posted constitutes your acceptance of the updated Privacy Policy.
+You can request deletion through in-app deletion controls. After deletion, we delete or anonymize account-related data we control, subject to legal and technical limits.
 
-9. Contact Information
+## 8. Your Rights
 
-    For questions, concerns, or requests regarding this Privacy Policy, please contact us at:
-    * Email: privacy@babylytics.app
+Depending on your location, you may have rights to access, correct, delete, or restrict processing of your data. To make a request, contact us at the email below.
 
-10. Disclaimer
+## 9. Children's Privacy
 
-    The Application is provided "AS IS," without any warranties, express or implied. The Service Provider does not guarantee that the Application will operate error-free or uninterrupted and is not liable for any damages arising from its use.
+Babylytics is intended for parents and caregivers, not for direct use by children.
+
+## 10. Policy Updates
+
+We may update this Privacy Policy from time to time. The date above reflects the latest version.
+
+## 11. Contact
+
+For privacy questions or requests:
+
+* Email: privacy@babylytics.app
